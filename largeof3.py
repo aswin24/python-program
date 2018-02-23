@@ -1,17 +1,17 @@
 def main():
     pass
-a=input("Enter a:")
-b=input("Enter b:")
-c=input("Enter c:")
-if a>b:
+d=input("Enter a:")
+e=input("Enter b:")
+f=input("Enter c:")
+if d>b:
     i=a
 else:
     i=b
-if b>c:
+if e>c:
     j=b
 else:
     j=c
-if i>j:
+if f>j:
     k=i
 else:
     k=j
